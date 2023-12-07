@@ -2,6 +2,6 @@ server:
   port: 8080
 
 authentication:
-  username: egoing
-  password: lucky
+  username: yourId
+  password: yourPassword
 
